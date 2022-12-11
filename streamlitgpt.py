@@ -11,3 +11,5 @@ def audio_test():
     st.write('\n \n')
     
     instance=st_audiorec()
+    
+audio_test()
